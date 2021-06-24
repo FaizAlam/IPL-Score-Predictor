@@ -102,15 +102,15 @@ label{
 	position:relative;
 	top:1px;
 }
-.register{
+
+.register {
   width: 30%;
   display: grid;
-  transform: translate(-50%,-50%);
-  top: 150%;
-  left: 50%;
-  position: absolute;
-}
-
+  transform: translate(0%,0%);
+  top: 50%;
+  /* left: 50%; */
+  position: relative;}
+  
 /*animations*/
 carousel {
   max-width: 100%;
